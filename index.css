@@ -5,25 +5,14 @@ img{
     widows: 400px;
     height: 400px;
 }
-h2{
-    list-style: none;
-    float:left;
-}
+
 .logo1{
-   color:purple;
+   color:rgb(4, 128, 0);
    font-size: 50px;
 }
 li{
     list-style:none;
 }
 h3{
-    font-size: 20px;
-}
-.logo2{
-    color:green;
-    font-size: 50px;
-}
-h4{
-    color:palevioletred;
-    font-size: 18px;    
+    font-size: 18px;
 }
